@@ -1,4 +1,26 @@
 {
+
+    "name": "djibian/wof",
+
+    "description": "Wordpress Object Framework plugin to help developing custom post types or custom taxonomies",
+
+    "keywords": ["framework", "posttype", "taxonomies"],
+
+    "license": "GPLv3",
+
+    "authors": [
+
+        {
+
+            "name": "Emmanuel BLANCHARD",
+
+            "email": "emmanuel.blanchard@retzien.fr"
+
+        }
+
+    ],
+
+
     "autoload": {
         "psr-4": {
             "Wof\\": "./class"
