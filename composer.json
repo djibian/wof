@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Wof\\": "./class"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}

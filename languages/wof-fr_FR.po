@@ -1,0 +1,212 @@
+# Copyright (C) 2022 Emmanuel BLANCHARD et Oz WP team S2
+# This file is distributed under the same license as the Wof plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wof 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wof\n"
+"Last-Translator: Emmanuel BLANCHARD <emmanuel.blanchard@retzien.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-09T07:48:38+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wof\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"Language: fr_FR\n"
+
+#. Description of the plugin
+msgid "Wordpress Object Framework Plugin to help developing custom post types or custom taxonomies."
+msgstr "Extension Wordpress Object Framework pour faciliter le développement de Type de posts et de taxonomies personnalisés "
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:149
+#: class/CustomPostType.php:150
+#: class/CustomTaxonomy.php:72
+#: class/CustomTaxonomy.php:73
+msgid "%ss"
+msgstr "%ss"
+
+#: class/CustomPostType.php:152
+msgid "Add New"
+msgstr "Nouveau"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:153
+#: class/CustomTaxonomy.php:83
+msgid "Add New %s"
+msgstr "Ajouter Nouveau %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:154
+#: class/CustomTaxonomy.php:80
+msgid "Edit %s"
+msgstr "Éditer %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:155
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:156
+#: class/CustomTaxonomy.php:81
+msgid "View %s"
+msgstr "Voir %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:157
+msgid "View %ss"
+msgstr "Voir %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:158
+#: class/CustomTaxonomy.php:75
+msgid "Search %ss"
+msgstr "Rechercher %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:159
+msgid "No %ss found."
+msgstr "Aucun %s trouvé."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:160
+msgid "No %ss found in Trash."
+msgstr "Aucun %s trouvé dans la corbeille."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:162
+#: class/CustomTaxonomy.php:77
+msgid "All %ss"
+msgstr "Tous les %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:163
+msgid "%s Archives"
+msgstr "Répertoire des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:164
+msgid "%s Attributs"
+msgstr "Caractéristiques des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:165
+msgid "Insert into %s"
+msgstr "Insérer dans %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:166
+msgid "Uploaded to this %s"
+msgstr "Télécharger vers %s"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:171
+msgid "Filter %ss list"
+msgstr "Filtrer la liste des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:172
+msgid "%ss list navigation"
+msgstr "Parcours des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:173
+msgid "%ss list"
+msgstr "Liste des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:174
+msgid "%s published."
+msgstr "%s publié."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:175
+msgid "%s published privately."
+msgstr "%s publié en privé."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:176
+msgid "%s reverted to draft."
+msgstr "%s rétabli comme brouilon."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:177
+msgid "%s scheduled."
+msgstr "%s programmé."
+
+#. translators: %s: Post type name
+#: class/CustomPostType.php:178
+msgid "%s updated."
+msgstr "%s mis à jour."
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:76
+msgid "Popular %ss"
+msgstr "%s populaires"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:82
+msgid "Update %s"
+msgstr "Mettre à jour %s"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:84
+msgid "New %s Name"
+msgstr "Nouveau nom pour %s"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:85
+msgid "Separate %ss with commas"
+msgstr "Séparer les %ss par une virgule"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:86
+msgid "Add or remove %ss"
+msgstr "Ajouter ou supprimer les %ss"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:87
+msgid "Choose from the most used %ss"
+msgstr "Choisir parmi les %ss les plus utlisés"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:88
+msgid "No %ss found"
+msgstr "Aucun %s trouvé"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:89
+msgid "No %ss"
+msgstr "Aucun %s"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:91
+msgid "%s list navigation"
+msgstr "Parcours de la liste des %ss"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:92
+msgid "%s list"
+msgstr "Liste des %ss"
+
+#. translators: Tab heading when selecting from the most used terms.
+#: class/CustomTaxonomy.php:94
+msgid "Most used"
+msgstr "Les plus utilisés"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:95
+msgid "&larr; Back to %ss"
+msgstr "&larr; Aller aux %ss"
+
+#. translators: %s: Post type name
+#: class/CustomTaxonomy.php:104
+msgid "Filter by %s"
+msgstr "Filtrer par %s"
+
+#: class/PostTypeCustomMetabox.php:58
+msgid "Edit your text"
+msgstr "Saisir votre texte"
