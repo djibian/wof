@@ -4,6 +4,8 @@
 
     "description": "Wordpress Object Framework plugin to help developing custom post types or custom taxonomies",
 
+    "type": "wordpress-plugin",
+
     "keywords": ["framework", "posttype", "taxonomies"],
 
     "license": "GPL-3.0-or-later",
